@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-# Wire World Media
+Wire World Media is currently not actively trading but you might find the following links useful:
 
-WWM is currently not trading
-
-[Andy White](http://andywhite.org)
+- [Andy White's personal website](http://andywhite.org)
+- [Eventful Brighton podcast](http://eventfulbrighton.org)
+- [Eventful Brighton Youtube channel](https://www.youtube.com/user/EventfulBrighton)
